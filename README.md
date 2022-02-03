@@ -8,4 +8,4 @@ In order to use this first pull the project from Github.
 [![Releases](https://img.shields.io/github/release/40508135/sem/all.svg?style=flat-square)](https://github.com/<github-username>/sem/releases)
 
 #Software Engineering Methods
-![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/40508135/sem/<A workflow for my Hello World App>/develop?style=flat-square)
+![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/40508135/sem/A%20workflow%20for%20my%20Hello%20World%20App/develop)
