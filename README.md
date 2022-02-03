@@ -5,4 +5,4 @@ In order to use this first pull the project from Github.
 
 [![LICENSE](https://img.shields.io/github/license/40508135/sem.svg?style=flat-square)](https://github.com/<github-username>/sem/blob/master/LICENSE)
 
-[![LICENSE](https://img.shields.io/github/license/40508135/sem.svg?style=flat-square)](https://github.com/<github-username>/sem/blob/master/LICENSE)
+[![Releases](https://img.shields.io/github/release/40508135/sem/all.svg?style=flat-square)](https://github.com/<github-username>/sem/releases)
