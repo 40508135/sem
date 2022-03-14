@@ -81,7 +81,6 @@ public class AppTest
         emp1.last_name = "Chalmers";
         emp1.salary = 20000;
         emp1.title = "Manager";
-        emp1.dept_name = "Sales";
         emp1.manager = "Dave Davidson";
 
         app.displayEmployee(emp1);
