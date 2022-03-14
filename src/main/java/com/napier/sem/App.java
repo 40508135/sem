@@ -119,6 +119,9 @@ public class App {
                             + emp.dept_name + "\n"
                             + "Manager: " + emp.manager + "\n");
         }
+        else{
+            System.out.println("There are no employees");
+        }
     }
 
     /**
