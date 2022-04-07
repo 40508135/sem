@@ -8,6 +8,7 @@ import java.util.ArrayList;
 
 import static org.junit.jupiter.api.Assertions.*;
 
+// TODO: 07/04/2022 make sure to add a comment here
 public class AppIntegrationTest
 {
     static App app;
@@ -16,7 +17,7 @@ public class AppIntegrationTest
     static void init()
     {
         app = new App();
-        app.connect("localhost:33060", 30000);
+        app.connect("db:3306", 30000);
 
     }
 
